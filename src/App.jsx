@@ -177,7 +177,7 @@ function Hero() {
       />
       <div className="absolute inset-0 bg-black/65" />
       {/* Decorative yellow frames */}
-      <div className="absolute left-[7%] top-1/2 -translate-y-1/2 w-72 h-72 md:w-96 md:h-96 border-4 border-[#F2C94C] opacity-60" />
+      <div className="absolute left-[4%] top-1/3 -translate-y-1/2 w-72 h-72 md:w-96 md:h-96 border-4 border-[#F2C94C] opacity-60" />
       <div className="absolute left-[9%] top-[calc(50%-1rem)] -translate-y-1/2 w-72 h-72 md:w-96 md:h-96 border-4 border-[#F2C94C] opacity-30" />
 
       <div className="relative z-10 max-w-7xl mx-auto px-6 w-full">
